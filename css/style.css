@@ -1,0 +1,24 @@
+body {
+    position: fixed;
+    top: 4.5em;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background:url(../imgs/bg6.png) no-repeat center center fixed; 
+    background-size: cover;
+}
+
+
+.demo-in-in{
+	background:url(../imgs/iphone_cover.png);
+	width:350px;
+	height:741px;
+	position: relative;
+	margin: 0 auto;
+	}
+	
+.touchslider-demo{
+	position: absolute;
+    left: 25px;
+    top: 111px;
+}
